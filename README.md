@@ -8,6 +8,8 @@
 * [Lesson05-Exception Handling](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/tutorial.ipynb)
 * [Lesson06-Python Advanced(I)](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson06-Python%20Advanced%28I%29/tutorial.ipynb)
 * [Lesson07-Python Advanced(II)](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson07-Python%20Advanced%28II%29/tutorial.ipynb)
+    * [Lesson07-Common Built-in Methods](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson07-Python%20Advanced%28II%29/Lesson07-Common%20Built-in%20Methods-tutorial.ipynb)
+    * [Lesson07-Common Built-in Modules](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson07-Python%20Advanced%28II%29/Lesson07-Common%20Built-in%20Modules-tutorial.ipynb)
 * [Lesson08-Regular Expression](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson08-Regular%20Expression/tutorial.ipynb)
 * [Lesson09-Web Crawler](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson09-Web%20Crawler/tutorial.ipynb)
 * [Lesson10-Broaden Horizon](https://github.com/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/tutorial.ipynb)
