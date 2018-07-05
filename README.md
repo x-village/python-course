@@ -3,8 +3,10 @@
 #### Table of Contents
 * [Lesson01-Introduction](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson01-Introduction/tutorial.ipynb)
 * [Lesson02-Python Basic(I)](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson02-Python%20Basic%28I%29/tutorial.ipynb)
-* [Lesson03-Python Basic(II)](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/tutorial.ipynb)
+* [Lesson03-Python Basic(II)](http://nbviewer.jupyter.org/github/x-village/python-course/tree/master/Lesson03-Python%20Basic%28II%29/)
+    * [Lesson03-Object and Function](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Object_and_%20Function.ipynb)
     * [Lesson03-Module and Package](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Module%20and%20Package.ipynb)
+    * [Lesson03-Class](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Class.ipynb)
 * [Lesson04-OOP Introduction](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson04-OOP%20Introduction/tutorial.ipynb)
 * [Lesson05-Exception Handling](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/tutorial.ipynb)
     * [Lesson05-File](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-File.ipynb)
