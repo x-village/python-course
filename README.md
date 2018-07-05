@@ -17,7 +17,7 @@
     * [Lesson04-Inheritance](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson04-OOP%20Introduction/Lesson04-Inheritance.ipynb#/)
     * [Lesson04-Polymorphism](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson04-OOP%20Introduction/Lesson04-Polymorphism.ipynb#/)
 * Lesson05-Exception Handling/ File/ String/ Coding convention
-    * [Lesson05-Exception Basics](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-Exception Basics.ipynb#/)
+    * [Lesson05-Exception Basics](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-Exception%20Basics.ipynb#/)
     * [Lesson05-File](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-File.ipynb#/)
     * [Lesson05-String](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-String.ipynb#/)
     * [Lesson05-Coding convention](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-Coding%20Convention.ipynb#/)
