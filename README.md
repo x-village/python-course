@@ -5,8 +5,10 @@
     * [Lesson01-Python Intro](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson01-Introduction/Lesson01-Python%20Intro.ipynb#/)
 	* [Lesson01-Editor_Introduction](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson01-Introduction/Lesson01-Editor_Introduction.ipynb#/)
 	* [Lesson01-Git Tutorial](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson01-Introduction/Lesson01-Git%20Tutorial.ipynb#/)
-* [Lesson02-Python Basic(I)](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson02-Python%20Basic%28I%29/tutorial.ipynb#/)
+* [Lesson02-Python Basic(I)]
+	* [Lesson02-HackMD](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson02-Python%20Basic%28I%29/Lesson02-HackMD.ipynb#/)
     * [Lesson02-Computer Basics](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson02-Python%20Basic%28I%29/Lesson02-Computer_Basics.ipynb#/)
+	* [Lesson02-Python Basic](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson02-Python%20Basic%28I%29/Lesson02-Python_Basic.ipynb#/)
 * Lesson03-Python Basic(II)
     * [Lesson03-Object and Function](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Object_and_%20Function.ipynb#/)
     * [Lesson03-Module and Package](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Module%20and%20Package.ipynb#/)
