@@ -2,6 +2,7 @@
 
 #### Table of Contents
 * Lesson01-Introduction
+    * [Lesson01-Python Intro](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson01-Introduction/Lesson01-Python%20Intro.ipynb#/)
 	* [Lesson01-Editor_Introduction](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson01-Introduction/Lesson01-Editor_Introduction.ipynb#/)
 	* [Lesson01-Git Tutorial](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson01-Introduction/Lesson01-Git%20Tutorial.ipynb#/)
 * [Lesson02-Python Basic(I)](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson02-Python%20Basic%28I%29/tutorial.ipynb#/)
