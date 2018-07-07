@@ -21,13 +21,13 @@
     * [Lesson05-File](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-File.ipynb#/)
     * [Lesson05-String](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-String.ipynb#/)
     * [Lesson05-Coding convention](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-Coding%20Convention.ipynb#/)
-* [Lesson06-Python Advanced(I)](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson06-Python%20Advanced%28I%29/tutorial.ipynb)
-* Lesson07-Python Advanced(II)
-    * [Lesson07-Common Built-in Methods](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Python%20Advanced%28II%29/Lesson07-Common%20Built-in%20Methods-tutorial.ipynb#/)
-    * [Lesson07-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Python%20Advanced%28II%29/Lesson07-Common%20Built-in%20Modules-tutorial.ipynb#/)
-* [Lesson08-Regular Expression](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson08-Regular%20Expression/tutorial.ipynb)
-* [Lesson09-Web Crawler](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson09-Web%20Crawler/tutorial.ipynb)
-* [Lesson10-Broaden Horizon](https://github.com/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/tutorial.ipynb)
+* Lesson06-Python Advanced(I)
+    * [Lesson06-Common Built-in Methods](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson06-Python%20Advanced%28I%29/Lesson06-Common%20Built-in%20Functions-tutorial.ipynb#/)
+    * [Lesson06-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson06-Python%20Advanced%28I%29/Lesson06-Common%20Built-in%20Modules-tutorial.ipynb#/)
+* Lesson07-Regular Expression
+* Lesson08-Web Crawler
+* Lesson09-Python Advanced(II)
+* Lesson10-Broaden Horizon
 
 
 X-village 前兩週 (7/9 - 7/20) 的 Python 基礎課程相關內容都會放在這個 Repo 裡面。
