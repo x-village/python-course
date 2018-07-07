@@ -22,8 +22,8 @@
     * [Lesson05-String](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-String.ipynb#/)
     * [Lesson05-Coding convention](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-Coding%20Convention.ipynb#/)
 * Lesson06-Python Advanced(I)
-    * [Lesson06-Common Built-in Methods](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson06-Python%20Advanced%28II%29/Lesson06-Common%20Built-in%20Methods-tutorial.ipynb#/)
-    * [Lesson06-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson06-Python%20Advanced%28II%29/Lesson06-Common%20Built-in%20Modules-tutorial.ipynb#/)
+    * [Lesson06-Common Built-in Methods](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson06-Python%20Advanced%28I%29/Lesson06-Common%20Built-in%20Functions-tutorial.ipynb#/)
+    * [Lesson06-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson06-Python%20Advanced%28I%29/Lesson06-Common%20Built-in%20Modules-tutorial.ipynb#/)
 * Lesson07-Regular Expression
 * Lesson08-Web Crawler
 * Lesson09-Python Advanced(II)
