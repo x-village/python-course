@@ -25,8 +25,8 @@
 * Lesson07-Regular Expression
 * Lesson08-Web Crawler
 * Lesson09-Python Advanced(II)
-    * [Lesson06-Common Built-in Functions](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Functions-solution.ipynb#/)
-    * [Lesson06-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Modules-solution.ipynb#/)
+    * [Lesson09-Common Built-in Functions](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Functions-solution.ipynb#/)
+    * [Lesson09-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Modules-solution.ipynb#/)
 * Lesson10-Broaden Horizon
 
 
