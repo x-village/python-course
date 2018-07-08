@@ -28,6 +28,7 @@
     * [Lesson09-Common Built-in Functions](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Functions-solution.ipynb#/)
     * [Lesson09-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Modules-solution.ipynb#/)
 * Lesson10-Broaden Horizon
+    * [Lesson10-Multimedia](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-MultiMedia-tutorial.ipynb#/)
 
 
 X-village 前兩週 (7/9 - 7/20) 的 Python 基礎課程相關內容都會放在這個 Repo 裡面。
