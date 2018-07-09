@@ -31,5 +31,7 @@
     * [Lesson10-Multimedia](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-MultiMedia-tutorial.ipynb#/)
 
 
+* [教育部「數位創新學院」先導計畫 X-Village](https://github.com/x-village/python-course/blob/master/X-Village.pdf)
+
 X-village 前兩週 (7/9 - 7/20) 的 Python 基礎課程相關內容都會放在這個 Repo 裡面。
 每堂課程會有各自的資料夾，課程資料夾中包含了每堂課程的教學內容。
