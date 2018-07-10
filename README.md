@@ -12,7 +12,7 @@
 * Lesson03-Python Basic(II)
     * [Lesson03-Object and Function](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Object_and_%20Function.ipynb#/)
     * [Lesson03-Module and Package](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Module%20and%20Package.ipynb#/)
-    * [Lesson03-Class](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Class.ipynb)
+    * [Lesson03-Class](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Class.ipynb#/)
 * Lesson04-OOP Introduction
     * [Lesson04-Inheritance](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson04-OOP%20Introduction/Lesson04-Inheritance.ipynb#/)
     * [Lesson04-Polymorphism](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson04-OOP%20Introduction/Lesson04-Polymorphism.ipynb#/)
@@ -21,14 +21,17 @@
     * [Lesson05-File](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-File.ipynb#/)
     * [Lesson05-String](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-String.ipynb#/)
     * [Lesson05-Coding convention](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-Coding%20Convention.ipynb#/)
-* [Lesson06-Python Advanced(I)](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson06-Python%20Advanced%28I%29/tutorial.ipynb)
-* Lesson07-Python Advanced(II)
-    * [Lesson07-Common Built-in Methods](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Python%20Advanced%28II%29/Lesson07-Common%20Built-in%20Methods-tutorial.ipynb#/)
-    * [Lesson07-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Python%20Advanced%28II%29/Lesson07-Common%20Built-in%20Modules-tutorial.ipynb#/)
-* [Lesson08-Regular Expression](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson08-Regular%20Expression/tutorial.ipynb)
-* [Lesson09-Web Crawler](http://nbviewer.jupyter.org/github/x-village/python-course/blob/master/Lesson09-Web%20Crawler/tutorial.ipynb)
-* [Lesson10-Broaden Horizon](https://github.com/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/tutorial.ipynb)
+* Lesson06-Python Advanced(I)
+* Lesson07-Regular Expression
+* Lesson08-Web Crawler
+* Lesson09-Python Advanced(II)
+    * [Lesson09-Common Built-in Functions](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Functions-solution.ipynb#/)
+    * [Lesson09-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Modules-solution.ipynb#/)
+* Lesson10-Broaden Horizon
+    * [Lesson10-Multimedia](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-MultiMedia-tutorial.ipynb#/)
 
+
+* [教育部「數位創新學院」先導計畫 X-Village](https://github.com/x-village/python-course/blob/master/X-Village.pdf)
 
 X-village 前兩週 (7/9 - 7/20) 的 Python 基礎課程相關內容都會放在這個 Repo 裡面。
 每堂課程會有各自的資料夾，課程資料夾中包含了每堂課程的教學內容。
