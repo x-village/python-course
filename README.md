@@ -13,6 +13,8 @@
     * [Lesson03-Object and Function](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Object_and_%20Function.ipynb#/)
     * [Lesson03-Module and Package](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Module%20and%20Package.ipynb#/)
     * [Lesson03-Class](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Class.ipynb#/)
+    * [Lesson03-Recap_Function](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Recap_Function.ipynb#/)
+    
 * Lesson04-OOP Introduction
     * [Lesson04-OOP Overview and Encapsulation](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson04-OOP%20Introduction/Lesson04-OOP%20Overview%20and%20Encapsulation.ipynb#/)
     * [Lesson04-Inheritance](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson04-OOP%20Introduction/Lesson04-Inheritance.ipynb#/)
