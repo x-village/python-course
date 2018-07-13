@@ -22,11 +22,11 @@
     * [Lesson05-String](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-String.ipynb#/)
     * [Lesson05-Coding convention](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-Coding%20Convention.ipynb#/)
 * Lesson06-Python Advanced(I)
+    * [Lesson06-Common Built-in Functions](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Functions-solution.ipynb#/)
+    * [Lesson06-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Modules-solution.ipynb#/)
 * Lesson07-Regular Expression
 * Lesson08-Web Crawler
 * Lesson09-Python Advanced(II)
-    * [Lesson09-Common Built-in Functions](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Functions-solution.ipynb#/)
-    * [Lesson09-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Modules-solution.ipynb#/)
 * Lesson10-Broaden Horizon
     * [Lesson10-Multimedia](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-MultiMedia-tutorial.ipynb#/)
 
