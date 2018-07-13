@@ -25,9 +25,8 @@
     * [Lesson05-String](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-String.ipynb#/)
     * [Lesson05-Coding convention](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-Coding%20Convention.ipynb#/)
 * Lesson06-Python Advanced(I)
-    * [Lesson06-Common Built-in Functions](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Functions-solution.ipynb#/)
-    * [Lesson06-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Modules-solution.ipynb#/)
 * Lesson07-Regular Expression
+    * [Lesson07-Common Built-in Functions & Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Regular%20Expression/Lesson07-Common%20Built-in%20Functions%20%26%20Modules-tutorial.ipynb#/)
 * Lesson08-Web Crawler
 	* [Lesson08-Requests module](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson08-Requests%20module.ipynb#/)
 * Lesson09-Python Advanced(II)
