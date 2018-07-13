@@ -13,7 +13,10 @@
     * [Lesson03-Object and Function](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Object_and_%20Function.ipynb#/)
     * [Lesson03-Module and Package](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Module%20and%20Package.ipynb#/)
     * [Lesson03-Class](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Class.ipynb#/)
+    * [Lesson03-Recap_Function](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson03-Python%20Basic%28II%29/Lesson03-Recap_Function.ipynb#/)
+    
 * Lesson04-OOP Introduction
+    * [Lesson04-OOP Overview and Encapsulation](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson04-OOP%20Introduction/Lesson04-OOP%20Overview%20and%20Encapsulation.ipynb#/)
     * [Lesson04-Inheritance](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson04-OOP%20Introduction/Lesson04-Inheritance.ipynb#/)
     * [Lesson04-Polymorphism](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson04-OOP%20Introduction/Lesson04-Polymorphism.ipynb#/)
 * Lesson05-Exception Handling/ File/ String/ Coding convention
@@ -26,6 +29,7 @@
     * [Lesson06-Common Built-in Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson09-Python%20Advanced%28II%29/Lesson09-Common%20Built-in%20Modules-solution.ipynb#/)
 * Lesson07-Regular Expression
 * Lesson08-Web Crawler
+	* [Lesson08-Requests module](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson08-Requests%20module.ipynb#/)
 * Lesson09-Python Advanced(II)
 * Lesson10-Broaden Horizon
     * [Lesson10-Multimedia](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-MultiMedia-tutorial.ipynb#/)
