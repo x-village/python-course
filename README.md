@@ -29,6 +29,8 @@
     * [Lesson07-Common Built-in Functions & Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Regular%20Expression/Lesson07-Common%20Built-in%20Functions%20and%20Modules-tutorial.ipynb#/)
 	* [Lesson07-Requests module](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Regular%20Expression/Lesson07-Requests_module.ipynb#/)
 * Lesson08-Web Crawler
+    * [Lesson08-Web Crawler](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson08-Crawler%20%28%26%20API%29.ipynb#/)
+    * [Lesson08-Data Visualisation](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson09-Data%20Visualisation.ipynb#/)
 * Lesson09-Python Advanced(II)
 * Lesson10-Broaden Horizon
     * [Lesson10-Multimedia](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-MultiMedia-tutorial.ipynb#/)
