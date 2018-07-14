@@ -36,6 +36,7 @@
 * Lesson09
 * Lesson10
     * [Lesson10-Multimedia](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-MultiMedia-tutorial.ipynb#/)
+     * [Lesson10-AI/ML Introduction](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-AI_ML.ipynb#/)
 
 
 * [教育部「數位創新學院」先導計畫 X-Village](https://github.com/x-village/python-course/blob/master/X-Village.pdf)
