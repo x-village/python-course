@@ -25,8 +25,8 @@
     * [Lesson05-String](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-String.ipynb#/)
     * [Lesson05-Coding convention](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson05-Exception%20Handling/Lesson05-Coding%20Convention.ipynb#/)
 * Lesson06
+    * [Lesson06-Common Built-in Functions & Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson06-Python%20Advanced%28I%29/Lesson06-Common%20Built-in%20Functions%20and%20Modules-tutorial.ipynb#/0/2)
 * Lesson07
-    * [Lesson07-Common Built-in Functions & Modules](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Regular%20Expression/Lesson07-Common%20Built-in%20Functions%20and%20Modules-tutorial.ipynb#/)
 	* [Lesson07-Requests module](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Regular%20Expression/Lesson07-Requests_module.ipynb#/)
 	* [Lesson07-package\_manager](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Regular%20Expression/Lesson07-package_manager.ipynb#/)
 * Lesson08
