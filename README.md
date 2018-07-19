@@ -31,12 +31,13 @@
 	* [Lesson07-package\_manager](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson07-Regular%20Expression/Lesson07-package_manager.ipynb#/)
 * Lesson08
 	* [Lesson08-regular\_expression](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson08-regular_expression.ipynb#/)
-    * [Lesson08-Web Crawler](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson08-Crawler%20%28%26%20API%29.ipynb#/)
-    * [Lesson08-Data Visualisation](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson09-Data%20Visualisation.ipynb#/)
 * Lesson09
+    * [Lesson09-Web Crawler](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson09-Crawler%20%28%26%20API%29.ipynb#/)
+    * [Lesson09-Data Visualisation](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson09-Data%20Visualisation.ipynb#/)
 * Lesson10
     * [Lesson10-Multimedia](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-MultiMedia-tutorial.ipynb#/)
-     * [Lesson10-AI/ML Introduction](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-AI_ML.ipynb#/)
+    * [Lesson10-Web](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-Web.ipynb#/?flush_cache=true)
+    * [Lesson10-AI/ML Introduction](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson10-Broaden%20Horizon/Lesson10-AI_ML.ipynb#/)
 
 
 * [教育部「數位創新學院」先導計畫 X-Village](https://github.com/x-village/python-course/blob/master/X-Village.pdf)
