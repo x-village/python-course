@@ -33,6 +33,7 @@
 	* [Lesson08-regular\_expression](http://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson08-regular_expression.ipynb#/)
 * Lesson09
     * [Lesson09-Web Crawler](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson09-Crawler%20%28%26%20API%29.ipynb#/)
+    * [Lesson09-Web Crawler - BeautifulSoap Version](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson08-Crawler-old.ipynb#/)
     * [Lesson09-Data Visualisation](https://nbviewer.jupyter.org/format/slides/github/x-village/python-course/blob/master/Lesson08-Web%20Crawler/Lesson09-Data%20Visualisation.ipynb#/)
 * Lesson10
     * [Lesson10-Multimedia](https://hackmd.io/p/By0SyD37X#/)
